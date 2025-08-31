@@ -1,7 +1,7 @@
 # TEAM-PENTABYTE
 # Precision Irrigation — Tinkercad Simulation (Arduino Uno)
 
-**Team Name:** <Team Pentabyte>  
+**Team Name:** Team Pentabyte  
 **Project:** Precision irrigation simulation (Arduino Uno + Tinkercad)  
 **Purpose:** Simulate automatic irrigation using a soil moisture sensor and a weather gateway decision (rain probability). This repo is intended for simulation-only demonstration.
 
