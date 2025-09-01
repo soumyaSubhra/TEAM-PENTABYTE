@@ -20,11 +20,10 @@ We have still provided the **ESP32 code** in this repository for reference if yo
 
 | File Name               | Description                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|
-| `irrigation_uno.ino`     | Arduino Uno sketch for Tinkercad simulation (used in final demo).           |
-| `irrigation_esp32.ino`   | ESP32 version of the code (reference only, for real hardware deployment).   |
+| `Sourcecode.ino`     | Arduino Uno sketch for Tinkercad simulation (used in final demo).           |
+| `ESP32sourcecode.ino`   | ESP32 version of the code (reference only, for real hardware deployment).   |
 | `gateway_simulator.py`   | Python script simulating weather gateway with commands (`RAIN_YES`, etc.).   |
 | `README.md`              | Project documentation with wiring, ET basics, and demo flow.                |
-| `wiring_diagram.png`     | Schematic diagram for Arduino Uno connections (optional, add if created).   |
 
 ---
 
