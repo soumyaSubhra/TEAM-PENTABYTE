@@ -21,7 +21,7 @@ We have still provided the **ESP32 code** in this repository for reference if yo
 | File Name               | Description                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|
 | `Sourcecode.ino`     | Arduino Uno sketch for Tinkercad simulation (used in final demo).           |
-| `ESP32sourcecode.ino`   | ESP32 version of the code (reference only, for real hardware deployment).   |
+| `ESP32sourcecode.ino`   | ESP32 version of the code (cannot be runned due to WOKWI downtime).   |
 | `gateway_simulator.py`   | Python script simulating weather gateway with commands (`RAIN_YES`, etc.).   |
 | `README.md`              | Project documentation with wiring, ET basics, and demo flow.                |
 
