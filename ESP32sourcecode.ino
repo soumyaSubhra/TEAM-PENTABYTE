@@ -7,8 +7,8 @@ const char* ssid = "";           // set for live WiFi tests, leave empty to forc
 const char* password = "";       // set for live WiFi tests
 
 const char* OWM_API_KEY = "";    // OpenWeather API key (leave empty to force simulated weather)
-const char* LATITUDE = "12.9716";
-const char* LONGITUDE = "77.5946";
+const char* LATITUDE = "";
+const char* LONGITUDE = "";
 const char* OWM_URL_BASE = "http://api.openweathermap.org/data/2.5/onecall";
 
 const float RAIN_THRESHOLD = 0.5; // 50% probability threshold
